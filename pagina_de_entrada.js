@@ -38,10 +38,14 @@ login_responsivo.addEventListener("click", function(){
   window.location.href =
 })
 
-var whey = document.getElementById("whey");
-whey.addEventListener("click", function(){
-  window.location.href = "https://nathalylopess.github.io/whey_protein.html"
-})
+//var whey = document.getElementById("whey");
+//whey.addEventListener("click", function(){
+  //window.location.href = "https://nathalylopess.github.io/whey_protein.html"
+//})
+
+var texto = "whey";
+var url = "https://nathalylopess.github.io/whey_protein.html";
+document.write(texto.link(url));
 
 var creatina = document.getElementById('creatina');
 creatina.addEventListener("click", function(){
