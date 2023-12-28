@@ -58,3 +58,7 @@ dashboard.addEventListener("click", function(){
   window.location.href = "https://nathalylopess.github.io/DashBoard.html"
 })
 
+var roupas = document.getElementById('roupas');
+roupas.addEventListener("click", function(){
+  window.location.href = ""
+})
