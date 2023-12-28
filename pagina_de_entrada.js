@@ -40,7 +40,7 @@ login_responsivo.addEventListener("click", function(){
 
 var whey = document.getElementById('whey');
 whey.addEventListener("click", function(){
-  window.location.href =
+  window.location.href = "https://nathalylopess.github.io/whey_protein.html"
 })
 
 var creatina = document.getElementById('creatina');
