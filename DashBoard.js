@@ -1,6 +1,6 @@
 var carrinho = document.getElementById('carrinho_pag');
 carrinho.addEventListener("click", function(){
-    window.location.href = ""
+    window.location.href = "";
 })
 
 var carrinho_responsivo = document.getElementById('carrinho_pag_responsivo');
