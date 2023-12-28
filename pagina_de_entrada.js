@@ -38,7 +38,7 @@ login_responsivo.addEventListener("click", function(){
   window.location.href =
 })
 
-var whey = document.getElementById('whey');
+var whey = document.getElementById("whey");
 whey.addEventListener("click", function(){
   window.location.href = "https://nathalylopess.github.io/whey_protein.html"
 })
