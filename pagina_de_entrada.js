@@ -60,5 +60,5 @@ dashboard.addEventListener("click", function(){
 
 var roupas = document.getElementById('roupas');
 roupas.addEventListener("click", function(){
-  window.location.href = ""
+  window.location.href = "https://nathalylopess.github.io/roupas.html"
 })
