@@ -53,8 +53,7 @@ function comparePassword() {
     }
 }
 
-var cadastro = document.getElementById('cadastrese');
+var cadastro = document.getElementById("cadastrese");
 cadastro.addEventListener("click", function(){
   window.location.href = "https://nathalylopess.github.io/index.html"
 })
-
