@@ -31,3 +31,13 @@ function maisPasswordValidate() {
         removeError(1);
     }
 }
+
+var acessar = document.getElementById("acessar");
+acessar.addEventListener("click", function(){
+    window.location.href = "https://nathalylopess.github.io/index.html"
+})
+
+var cadastro = document.getElementById("cadastro");
+cadastro.addEventListener("click", function(){
+    window.location.href = "https://nathalylopess.github.io/cadastro.html"
+})
