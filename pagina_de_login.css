@@ -61,12 +61,6 @@ input::after {
     border: 2px solid #FCA311;
 }
 
-.donos p {
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-}
-
 .botoes {
     height: 100px;
     width: 400px;
@@ -77,7 +71,7 @@ input::after {
     margin-top: 10px;
 }
 
-.acessar, .cadastro {
+#acessar, #cadastro {
     margin-top: 10px;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
@@ -88,10 +82,10 @@ input::after {
     width: 360px;
 }
 
-.cadastro:hover {
+#cadastro:hover {
     background-color: #FCA311;
 }
-.acessar:hover {
+#acessar:hover {
     background-color: #FCA311;
 }
 
