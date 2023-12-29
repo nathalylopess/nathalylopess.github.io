@@ -1,14 +1,5 @@
 var carrinho = document.getElementById('carrinho_pag');
-carrinho.addEventListener("click", function(){
-    window.location.href = "https://nathalylopess.github.io/carrinho.html"
-})
+carrinho.innerHTML = '<a href="file:///C:/Users/river/OneDrive/%C3%81rea%20de%20Trabalho/Infoweb/Design%20Web/projeto%20design/carrinho/carrinho.html"><i class="bx bx-cart-alt bx-md bx-tada"></i></a>'
 
 var login = document.getElementById('login_pag');
-login.addEventListener("click", function(){
-  window.location.href = "https://nathalylopess.github.io/pagina_de_login.html"
-})
-
-var inicial = document.getElementById('inicial');
-inicial.addEventListener("click", function(){
-  window.location.href = "https://nathalylopess.github.io/index.html"
-})
+login.innerHTML = '<a href="file:///C:/Users/river/OneDrive/%C3%81rea%20de%20Trabalho/Infoweb/Design%20Web/projeto%20design/login/pagina_de_login.html"><i class="bx bx-user bx-md "></i></a>'
