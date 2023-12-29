@@ -127,6 +127,9 @@
     background-color: transparent;
     color: white;
 }
+.cabeçalho #inicial {
+    background-color: transparent;
+}
 
 .botoes_menu {
     display: flex;
