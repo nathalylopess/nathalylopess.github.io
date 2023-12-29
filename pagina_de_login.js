@@ -39,5 +39,5 @@ acessar.addEventListener("click", function(){
 
 var cadastro = document.getElementById("cadastro_pag");
 cadastro.addEventListener("click", function(){
-    window.location.href = "https://nathalylopess.github.io/cadastro.html"
+    window.location.href = "https://nathalylopess.github.io/pagina_cadastro.html"
 })
