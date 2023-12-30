@@ -32,12 +32,12 @@ function maisPasswordValidate() {
     }
 }
 
-var acessar = document.getElementById("acessar_pag");
+var acessar = document.getElementById("acessar");
 acessar.addEventListener("click", function(){
     window.location.href = "https://nathalylopess.github.io/index.html"
 })
 
-var cadastro = document.getElementById("cadastro_pag");
+var cadastro = document.getElementById("cadastro");
 cadastro.addEventListener("click", function(){
     window.location.href = "https://nathalylopess.github.io/pagina_cadastro.html"
 })
