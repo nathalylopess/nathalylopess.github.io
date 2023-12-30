@@ -55,5 +55,5 @@ function comparePassword() {
 
 var cadastro = document.getElementById("cadastrese");
 cadastro.addEventListener("click", function(){
-  window.location.href = "https://nathalylopess.github.io/index.html"
+  window.location.href = "https://nathalylopess.github.io/pagina_de_login.html"
 })
