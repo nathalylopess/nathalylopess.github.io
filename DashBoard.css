@@ -9,6 +9,10 @@
     width: 100%;
 }
 
+textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
 
 .cabeçalho_dois,  .pesquisa_responsivo, .procura_responsivo, .lupa_responsivo, .botoes_menu, #menu_responsivo{
     display: none;
