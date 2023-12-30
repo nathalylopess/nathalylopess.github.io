@@ -43,12 +43,3 @@ roupas.addEventListener("click", function(){
   window.location.href = "https://nathalylopess.github.io/roupas.html"
 })
 
-var inicial = document.getElementById('inicial');
-inicial.addEventListener("click", function(){
-  window.location.href = "https://nathalylopess.github.io/index.html"
-})
-
-var inicial_responsivo = document.getElementById('inicial_responsivo');
-inicial_responsivo.addEventListener("click", function(){
-  window.location.href = "https://nathalylopess.github.io/index.html"
-})
