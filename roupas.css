@@ -13,6 +13,11 @@ nav {
     background-color:black;
 }
 
+textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
 #carrinho_pag {
     background-color: transparent;
 }
