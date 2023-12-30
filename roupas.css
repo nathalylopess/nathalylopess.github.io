@@ -124,7 +124,7 @@ a button {
 }
 
 
-a .cabeçalho :hover {
+.cabeçalho :hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 } 
@@ -360,7 +360,7 @@ main .login {
 
 @media (min-width:1100px) {
 
-    a .cabeçalho :hover {
+    .cabeçalho :hover {
         -webkit-transform: scale(1.1);
         transform: scale(1.1);
     } 
@@ -460,7 +460,7 @@ main .login {
     }
 
 
-    a .cabeçalho :hover {
+    .cabeçalho :hover {
         -webkit-transform: scale(1.1);
         transform: scale(1.1);
     } 
@@ -693,7 +693,7 @@ main .login {
         display: none;
     }
 
-    a .cabeçalho :hover {
+    .cabeçalho :hover {
         -webkit-transform: scale(1.1);
         transform: scale(1.1);
     } 
@@ -737,7 +737,7 @@ main .login {
         height: 500px;
     }
 
-    a .cabeçalho :hover {
+    .cabeçalho :hover {
         -webkit-transform: scale(1.1);
         transform: scale(1.1);
     } 
@@ -784,7 +784,7 @@ main .login {
         flex-direction: row;
     }
 
-    a .cabeçalho :hover {
+    .cabeçalho :hover {
         -webkit-transform: scale(1.1);
         transform: scale(1.1);
     } 
